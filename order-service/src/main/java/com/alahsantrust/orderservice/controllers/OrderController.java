@@ -2,7 +2,7 @@ package com.alahsantrust.orderservice.controllers;
 
 import com.alahsantrust.orderservice.data.models.entities.Order;
 import com.alahsantrust.orderservice.data.payloads.dto.OrderRequest;
-import com.alahsantrust.orderservice.data.services.OrderService;
+import com.alahsantrust.orderservice.services.OrderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

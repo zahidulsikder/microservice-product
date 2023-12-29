@@ -1,4 +1,4 @@
-package com.alahsantrust.orderservice.data.services;
+package com.alahsantrust.orderservice.services;
 
 import com.alahsantrust.orderservice.data.models.entities.Order;
 import com.alahsantrust.orderservice.data.models.entities.OrderLineItems;
