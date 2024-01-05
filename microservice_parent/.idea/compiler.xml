@@ -7,31 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-<<<<<<< HEAD:.idea/compiler.xml
-        <module name="order-service" />
-        <module name="inventory-service" />
-=======
         <module name="product-service" />
         <module name="inventory-service" />
         <module name="my-order-service" />
->>>>>>> microservice-module:microservice_parent/.idea/compiler.xml
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="inventory-service" target="17" />
-      <module name="order-service" target="17" />
-      <module name="order-services" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="inventory-service" options="-parameters" />
-<<<<<<< HEAD:.idea/compiler.xml
-=======
       <module name="my-order-service" options="-parameters" />
->>>>>>> microservice-module:microservice_parent/.idea/compiler.xml
-      <module name="order-service" options="-parameters" />
-      <module name="order-services" options="-parameters" />
       <module name="product-service" options="-parameters" />
     </option>
   </component>
