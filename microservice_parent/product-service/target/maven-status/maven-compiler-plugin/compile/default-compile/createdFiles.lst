@@ -1,0 +1,17 @@
+com\alahsantrust\productservice\data\repositories\ProductRepository.class
+com\alahsantrust\productservice\data\payloads\dto\ProductRequest$ProductRequestBuilder.class
+com\alahsantrust\productservice\data\models\entities\Product.class
+com\alahsantrust\productservice\data\payloads\responses\messages\MessageResponse.class
+com\alahsantrust\productservice\services\ProductServiceImpl.class
+com\alahsantrust\productservice\exceptions\GlobalExceptionHandler.class
+com\alahsantrust\productservice\data\payloads\mapper\entity_to_dto\ProductEntityToProductResponse.class
+com\alahsantrust\productservice\data\payloads\mapper\dto_to_entity\ProductDtoToProductEntity.class
+com\alahsantrust\productservice\data\payloads\responses\messages\Message.class
+com\alahsantrust\productservice\data\payloads\dto\ProductResponse.class
+com\alahsantrust\productservice\data\payloads\responses\messages\TutorialInfo.class
+com\alahsantrust\productservice\ProductServiceApplication.class
+com\alahsantrust\productservice\controllers\ProductController.class
+com\alahsantrust\productservice\data\payloads\dto\ProductResponse$ProductResponseBuilder.class
+com\alahsantrust\productservice\services\ProductService.class
+com\alahsantrust\productservice\data\models\entities\Product$ProductBuilder.class
+com\alahsantrust\productservice\data\payloads\dto\ProductRequest.class
