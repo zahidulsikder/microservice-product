@@ -35,4 +35,15 @@ public class TutorialInfo {
      * fetcher : isInStock method created
      */
 
+    /**
+     * link : https://www.youtube.com/watch?v=lh1oQHXVSc0&list=PLSVW22jAG8pBnhAdq9S8BpLnZ0_jVBj0c&index=1
+     * day : 3
+     * total part : 12
+     * part : 1
+     * date : 05-01-2024
+     * time : 1:35:00
+     * learning : build as microservice project and 3 modules
+     * fetcher : one main project named microservice-parent and 3 modules named product service, inventory service, order service
+     */
+
 }
