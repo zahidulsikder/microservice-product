@@ -29,10 +29,10 @@ public class TutorialInfo {
      * day : 3
      * total part : 12
      * part : 1
-     * date : 29-12-2023
-     * time : 
-     * learning :
-     * fetcher :
+     * date : 05-01-2024
+     * time : 1:20:00
+     * learning : CommandLineRunner this is automatic create or insert data;
+     * fetcher : isInStock method created
      */
 
 }
