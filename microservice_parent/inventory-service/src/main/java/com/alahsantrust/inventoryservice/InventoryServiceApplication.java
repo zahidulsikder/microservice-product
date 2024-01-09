@@ -1,11 +1,7 @@
 package com.alahsantrust.inventoryservice;
 
-import com.alahsantrust.inventoryservice.data.models.entity.Inventory;
-import com.alahsantrust.inventoryservice.data.payloads.responses.InventoryRepository;
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class InventoryServiceApplication {
