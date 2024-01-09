@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12dfeb3-8363-4449-8a5f-407f95cf0ab7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my-order-service/src/main/java/com/alahsantrust/orderservice/config/WebClientConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-order-service/src/main/java/com/alahsantrust/orderservice/services/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-order-service/src/main/java/com/alahsantrust/orderservice/services/OrderService.java" afterDir="false" />
-    </list>
+    <list default="true" id="d12dfeb3-8363-4449-8a5f-407f95cf0ab7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +121,7 @@
       <workItem from="1704456127833" duration="5419000" />
       <workItem from="1704462103344" duration="1427000" />
       <workItem from="1704541564327" duration="934000" />
-      <workItem from="1704819664274" duration="1669000" />
+      <workItem from="1704819664274" duration="2276000" />
     </task>
     <servers />
   </component>
